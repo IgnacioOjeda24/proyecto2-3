@@ -25,7 +25,7 @@ Para ejecutar este proyecto, el usuario necesitará:
 
 Puedes instalar las dependencias ejecutando:
 
-'''bash
+```bash
 pip install fastapi uvicorn transformers
 
 
