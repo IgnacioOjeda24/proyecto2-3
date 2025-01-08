@@ -16,7 +16,17 @@ La clase ModelSwitcher maneja la iteración entre ambos modelos, permitiendo que
 
 ## Requisitos.
 
+Para ejecutar este proyecto, el usuario necesitará:
 
+1. Python 3.7 o superior
+2. FastAPI.
+3. Hugging Face transformers.
+4. Uvicorn para correr el servidor.
+
+Puedes instalar las dependencias ejecutando:
+
+'''bash
+pip install fastapi uvicorn transformers
 
 
 
