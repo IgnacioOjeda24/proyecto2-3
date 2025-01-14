@@ -32,26 +32,44 @@ D (Delete o Eliminar): Es una operación que elimina un dato específico de la t
 
 ## Parte 2: Explicar como configurar la  base de datos vectorial:
 
-### Explicación:
+## Requisitos para la Ejecución
+
+### Dependencias
+
+1. **Python 3.8 a 3.10 independiente del sistema operativo que tenga el usuario como: Windows, Linux o Mac.**
+2. **Visual studio instalado independiente del sistema operativo que tenga el usuario como: Windows, Linux o Mac.**
+3. **Instalar el siguiente comando:**
+
+    ``` bash
+   pip install faiss-cpu transformers numpy scikit-learn torch matplotlib
+
+
 
 Pasos:
 
 
 
-## Parte 3: Explicar como configurar la  base de datos vectorial:
+## Explicar el funcionamiento de los embedding y si configuracion:
 
-### Explicación:
+### ¿Qué son los embeddings?:
 
-Pasos:
-
-
-
+Los embeddings son una técnica de NLP (Natural Language Processing) que transforma el lenguaje humano en vectores matemáticos, por lo que sirve demasiado en la inteligencia artificial para los siguientes modelos como: Análisis de sentimientos, la clasificación del texto y la traducción automática.
 
 ## Parte 4: Debe contener imagenes de uso y ejemplos:
 
 ### Explicación:
 
-Pasos:
+Se mostrará ejemplos cuando el usuario va a usar la aplicación.
+
+Pasos para que funcione el 100%.
+
+#### Pasos:
+
+1. **Primer lugar tiene que asegurar que tenga las siguientes dependencias como Python versión 3.8 mínimo y Visual Studio code independiente del sistema operativo que tenga en su ordenador.**
+2. **Segundo lugar, tiene que clonar el proyecto en el computador que tenga con el siguiente comando:**
+
+   ``` bash
+   pip install faiss-cpu transformers numpy scikit-learn torch matplotlib
 
 
 
