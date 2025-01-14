@@ -1,6 +1,6 @@
 # Proyecto 3:
 
-Instrucciones:
+##Instrucciones:
 
 Instalación, configuración, crear y add (añadir) embedings, realizar consultas y usar condiciones y filtros avanzados en las consultas.
 
