@@ -69,7 +69,37 @@ Pasos para que funcione el 100%.
 2. **Segundo lugar, tiene que clonar el proyecto en el computador que tenga con el siguiente comando:**
 
    ``` bash
-   pip install faiss-cpu transformers numpy scikit-learn torch matplotlib
+   git clone https://github.com/IgnacioOjeda24/base-de-datos-vectorial.git
+
+3. **Tercer lugar, posteriormente a clonarlo, el usuario que abrir una terminal en visual studio code, donde la pestaña de terminal**
+4. **Cuarto lugar, al abrir la terminal tiene que ejecutar el siguiente comando, para crear el entorno virtual en visual studio code**
+
+   ##### Comando:
+
+     ``` bash
+     python -m venv nombre_entorno_virtual
+
+  ##### Ejemplo:
+
+     ``` bash
+     python -m venv ev
+
+5. **Quinto lugar, a la vez que se haya creada el entorno virtual, el usuario tendrá que ejecutar el siguiente comando:**
+
+   ##### Comando:
+
+     ``` bash
+     nombre_entorno_virtual\Scripts\activate
+
+  ##### Ejemplo:
+
+     ``` bash
+     ev\Scripts\activate
+
+
+6. **Sexto lugar, ahora hay que ejecutar los comandos para instalar las librerías de python:**
+
+   
 
 
 
