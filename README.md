@@ -38,15 +38,57 @@ D (Delete o Eliminar): Es una operación que elimina un dato específico de la t
 
 1. **Python 3.8 a 3.10 independiente del sistema operativo que tenga el usuario como: Windows, Linux o Mac.**
 2. **Visual studio instalado independiente del sistema operativo que tenga el usuario como: Windows, Linux o Mac.**
-3. **Instalar el siguiente comando:**
+3. **Instalar el siguiente comando de instalar las librerías:**
 
-    ``` bash
-   pip install faiss-cpu transformers numpy scikit-learn torch matplotlib
+   ##### Comando:
+
+      ``` bash
+      pip install faiss-cpu transformers numpy scikit-learn torch matplotlib
+
+  ##### Ejemplo:
+
+       ![Foto3](https://github.com/user-attachments/assets/92258a1e-881a-44a9-9460-64c794a1be16)
+
+      
+4.  **Instalar la librería para instalar sqlite 3**
+
+   ##### Comando:
+
+      ``` bash
+      apt-get update
+      apt-get install sqlite3
+
+  ##### Ejemplo:
+
+      ![Foto4](https://github.com/user-attachments/assets/5a02d47d-b6be-40e5-afa4-e450ce256147)
+
+5. **Verificamos que sqlite 3 está instalado**
+
+   ##### Comando:
+
+      ``` bash
+      sqlite3 --version
+
+##### Ejemplo: 
+      
+![Foto5](https://github.com/user-attachments/assets/5ac97795-e06f-4fca-a3a5-5562ae548b70)
+
+   
+
+      
+
+
+
+
+
+    
 
 
 
 Pasos:
 
+
+## Parte 3:  Explicar el funcionamiento de los embedding y su configuracion:
 
 
 ## Explicar el funcionamiento de los embedding y si configuracion:
