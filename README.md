@@ -136,7 +136,9 @@ Pasos para que funcione el 100%.
      ev\Scripts\activate
 
 
-6. **Sexto lugar, ahora hay que ejecutar los comandos para instalar las librerías de python:**
+6. **Sexto lugar, ahora hay que ejecutar los comandos para instalar las librerías de python como las que se muestran al continuación:**
+
+   
 
    
 
