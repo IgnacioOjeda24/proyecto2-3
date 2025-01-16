@@ -138,6 +138,69 @@ Pasos para que funcione el 100%.
 
 6. **Sexto lugar, ahora hay que ejecutar los comandos para instalar las librerías de python como las que se muestran al continuación:**
 
+    ![image](https://github.com/user-attachments/assets/d04af08b-01b5-4edf-a4b9-7f0f22ec3133)
+
+7. **Séptimo lugar, a la vez que se haya instalado las librerías, se importa en el python colab:**
+
+    ![image](https://github.com/user-attachments/assets/f0f98ac1-83dc-424a-ba86-0a7fad0f3f29)
+   
+8. **Octavo lugar, al ejecutar el proyecto se muestra la presentación del menú**
+
+     **Foto 1**
+       
+     ![Capture001](https://github.com/user-attachments/assets/55d2de0c-f11f-4826-9bd6-79be55d53e46)
+
+     **Foto 2**
+     
+     ![image](https://github.com/user-attachments/assets/5b9e9db0-ae3d-4fc7-81f4-ed2f4280785b)
+
+
+9. **Noveno lugar, al seleccionar la opción 1: Se añade un documento cualquier nombre, pero en este caso ingresé con los nombres de las series de netflix en inglés como Wednesday (Merlina) y se agregó el documento correctamente**
+
+    ![image](https://github.com/user-attachments/assets/3d16db34-cdda-4d81-b596-58d5a2cc961f)
+
+10. **Décimo lugar, al seccionar la opción 2: Se obtiene todos los documentos que ingresó el usuario, en este caso los nombres de los títulos de las series de netflix en inglés.**
+       
+    ![image](https://github.com/user-attachments/assets/bb133ab9-c477-45f4-862d-0f82a8df60a5)
+
+11. **Undécimo lugar, al seleccionar la opción 3: Se cambia el nombre del documento de un índex específico, que se seleccionó el 1 que pasará de Wednesday a Money Heist (Casa de papel)**
+
+       **Foto a actualizar un índex específico que es el 1 y se hizo de manera satisfactoria**
+
+       ![image](https://github.com/user-attachments/assets/171b9ee7-8362-4a48-8413-a6b605c3a069)
+
+       **Foto que está actualizada la base de datos**
+
+       ![image](https://github.com/user-attachments/assets/31253445-44bb-43c2-9426-895282ca352d)
+
+12. **Duodécimo lugar, al seleccionar la opción 4: Se eliminar un índex específico y para comprobar se hace a través del menú 2**
+
+      **Foto para eliminar el índex**
+
+      ![image](https://github.com/user-attachments/assets/88c4dff2-696b-433f-81fb-fd9ad3510087)
+
+      **Efectivamente se eliminó el documento de la serie de netflix: "House of Card"**
+
+      ![image](https://github.com/user-attachments/assets/071ba578-41a6-4853-a4cd-bc447aab4357)
+
+13. **Décimo tercero, al seccionar la opción 5, el usuario pone una palabra para poner la similitud y arrojan resultados entre 0 y 1**
+
+      ![image](https://github.com/user-attachments/assets/a70e411b-d516-4963-998b-2dd3a54ddac2)
+
+14 **Décimo cuarto lugar, al seleccionar la opción 6, sale el gráfico de 2D**
+
+      ![image](https://github.com/user-attachments/assets/2242227d-3427-4faf-841b-79046ffa1463)
+
+      ![image](https://github.com/user-attachments/assets/a5e7ecce-fdec-40c1-8298-d33feace2277)
+
+15 **Décimo quinto lugar, al seleccionar la opción 7, se termina la ejecución del programa**
+
+      ![image](https://github.com/user-attachments/assets/0404ad91-386d-4544-8ed0-6bcee85d4cee)
+
+
+
+
+
    
 
    
