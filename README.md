@@ -189,13 +189,18 @@ Pasos para que funcione el 100%.
 
 14 **Décimo cuarto lugar, al seleccionar la opción 6, sale el gráfico de 2D**
 
-      ![image](https://github.com/user-attachments/assets/2242227d-3427-4faf-841b-79046ffa1463)
+      ![WhatsApp Image 2025-01-15 at 10 23 19 PM](https://github.com/user-attachments/assets/f4fd4c1e-66f6-46d3-8b9c-5fae5da841e4)
 
-      ![image](https://github.com/user-attachments/assets/a5e7ecce-fdec-40c1-8298-d33feace2277)
+      ![WhatsApp Image 2025-01-15 at 10 23 45 PM](https://github.com/user-attachments/assets/5c009f3f-c79e-461a-9174-99d2aba7b544)
+  
 
 15 **Décimo quinto lugar, al seleccionar la opción 7, se termina la ejecución del programa**
 
-      ![image](https://github.com/user-attachments/assets/0404ad91-386d-4544-8ed0-6bcee85d4cee)
+      ![WhatsApp Image 2025-01-15 at 10 22 43 PM](https://github.com/user-attachments/assets/b9ad9405-ad46-4de3-8898-f3113c5bba01)
+
+
+
+      
 
 
 
