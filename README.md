@@ -196,7 +196,8 @@ Pasos para que funcione el 100%.
 
 15 **Décimo quinto lugar, al seleccionar la opción 7, se termina la ejecución del programa**
 
-      ![WhatsApp Image 2025-01-15 at 10 22 43 PM](https://github.com/user-attachments/assets/b9ad9405-ad46-4de3-8898-f3113c5bba01)
+      ![F1](https://github.com/user-attachments/assets/f8823ee3-922f-4016-9402-0c926c82e734)
+
 
 
 
