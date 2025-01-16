@@ -52,7 +52,7 @@ D (Delete o Eliminar): Es una operación que elimina un dato específico de la t
 
   ##### Ejemplo:
 
-       ![Foto3](https://github.com/user-attachments/assets/92258a1e-881a-44a9-9460-64c794a1be16)
+   ![Foto3](https://github.com/user-attachments/assets/92258a1e-881a-44a9-9460-64c794a1be16)
 
 4. ** A las vez al tener las librerías instaladas de todo el proyecto, se tiene que configurar la base de datos en python, que esta vez se eligió FAISS, ya que es menor complejo y más sencillo.
 
@@ -62,18 +62,18 @@ D (Delete o Eliminar): Es una operación que elimina un dato específico de la t
 
       Importar la librería.
 
-         ![Foto8](https://github.com/user-attachments/assets/eb5f8f7b-3331-4d44-896a-8b03ac048071)
+   ![Foto8](https://github.com/user-attachments/assets/eb5f8f7b-3331-4d44-896a-8b03ac048071)
 
    
 
       Crear un índice:
 
-         ![Foto9](https://github.com/user-attachments/assets/24bc1e74-2dee-41f9-bd7a-3de0e8d7a095)
+   ![Foto9](https://github.com/user-attachments/assets/24bc1e74-2dee-41f9-bd7a-3de0e8d7a095)
 
       
      Agregar embeddings al índice.
 
-         ![Foto10](https://github.com/user-attachments/assets/c7a92fef-c5f6-486d-93b2-07fdb47bf4a9)
+   ![Foto10](https://github.com/user-attachments/assets/c7a92fef-c5f6-486d-93b2-07fdb47bf4a9)
 
 ## Parte 3:  Explicar el funcionamiento de los embedding y su configuracion:
 
@@ -89,7 +89,7 @@ Los embeddings son una técnica de NLP (Natural Language Processing) que transfo
 
 ![Foto12](https://github.com/user-attachments/assets/d696b507-ac3f-4182-b004-a5cc46a31908)
 
-**Configuración: El modelo DistilBERT se descarga de forma automática desde Hugging Face al inicializar.
+**Configuración: El modelo DistilBERT se descarga de forma automática desde Hugging Face al inicializar.**
 
 ![Foto13](https://github.com/user-attachments/assets/7d7e7716-3eb9-4ab8-a962-bf4af5f0199c)
 
@@ -189,14 +189,16 @@ Pasos para que funcione el 100%.
 
 14 **Décimo cuarto lugar, al seleccionar la opción 6, sale el gráfico de 2D**
 
-      ![WhatsApp Image 2025-01-15 at 10 23 19 PM](https://github.com/user-attachments/assets/f4fd4c1e-66f6-46d3-8b9c-5fae5da841e4)
+   ![WhatsApp Image 2025-01-15 at 10 23 19 PM](https://github.com/user-attachments/assets/f4fd4c1e-66f6-46d3-8b9c-5fae5da841e4)
 
-      ![WhatsApp Image 2025-01-15 at 10 23 45 PM](https://github.com/user-attachments/assets/5c009f3f-c79e-461a-9174-99d2aba7b544)
+   ![WhatsApp Image 2025-01-15 at 10 23 45 PM](https://github.com/user-attachments/assets/5c009f3f-c79e-461a-9174-99d2aba7b544)
   
 
 15 **Décimo quinto lugar, al seleccionar la opción 7, se termina la ejecución del programa**
 
-      ![F1](https://github.com/user-attachments/assets/f8823ee3-922f-4016-9402-0c926c82e734)
+   ![Capture001](https://github.com/user-attachments/assets/eb977eb3-5d1c-4694-89ca-4998762120fc)
+
+
 
 
 
