@@ -1,6 +1,8 @@
-# Proyecto 3:
+# Proyecto 4:
 
 ## Instrucciones del proyecto:
+
+Hacer consultas de Crud en una interfaz gráfica en CRUD:
 
 Instalación, configuración, crear y add (añadir) embedings, realizar consultas y usar condiciones y filtros avanzados en las consultas.
 
